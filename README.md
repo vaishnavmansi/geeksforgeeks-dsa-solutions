@@ -1,3 +1,6 @@
+## 📂 Folder Structure
+
+```bash
 geeksforgeeks-dsa-solutions/
 │
 ├── README.md
@@ -23,3 +26,4 @@ geeksforgeeks-dsa-solutions/
 │   ├── second-largest.java
 │   ├── reverse-array.java
 │   ├── palindrome-array.java
+```
